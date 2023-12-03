@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=""right alt="coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
+<img align=""right alt="coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak-kumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dipak-kumawat" /> </p>
 
