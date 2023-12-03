@@ -20,6 +20,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dipak-kumawat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipak-kumawat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipak-kumawat&show_icons=true&locale=en&layout=compact" alt="dipak-kumawat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipak-kumawat&show_icons=true&locale=en" alt="dipak-kumawat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak-kumawat&" alt="dipak-kumawat" /></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
