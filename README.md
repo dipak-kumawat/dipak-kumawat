@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=""right alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&tbnid=QCZULViz1nWbzM&vet=12ahUKEwjT9-LAqvOCAxUGo2MGHSH2A7UQMygKegUIARCSAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fciudad-futurista--601160250270667206%2F&docid=va-hCZbNzlpFMM&w=800&h=600&q=developer%20gif&ved=2ahUKEwjT9-LAqvOCAxUGo2MGHSH2A7UQMygKegUIARCSAQ" >
-
+<<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak-kumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dipak-kumawat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipak-kumawat" alt="dipak-kumawat" /></a> </p>
