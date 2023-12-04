@@ -7,9 +7,13 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Apple website<br>
+
 🌱 I’m currently learning Full Stack Developer<br>
+
 💬 Ask me about Frontend, MEARN<br>
+
 📫 How to reach me dipaksk11@gmail.com<br>
+
 ⚡ Fun fact I am Funny
 
 
