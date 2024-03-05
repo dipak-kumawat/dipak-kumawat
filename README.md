@@ -5,7 +5,7 @@
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
  
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently working on Mini Project<br> 
  
 🌱 I’m currently learning Full Stack Developer<br>  
