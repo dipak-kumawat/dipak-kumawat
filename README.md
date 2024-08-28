@@ -14,7 +14,7 @@
 
 📫 How to reach me dipaksk11@gmail.com<br>
 
-⚡ Fun fact I am Funny
+⚡ Fun fact I can talk more than 4 languages 
 
 
 ## 🌐 Socials:
